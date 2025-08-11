@@ -1,4 +1,9 @@
-## Hi there 👋
+## Bem-Vindo ao meu Gitbub 👋
+
+- 🌱 Atualmente estudando Java & SQL
+- 🔭 Atualmente trabalhando em um projeto pessoal de comparação de banco de dados SQLite
+- 📫 silva.los@outlook.com
+- 🔗 https://www.linkedin.com/in/lucas-de-oliveira-silva-a44a73197/
 
 <!--
 **LuksOSilva/LuksOSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
