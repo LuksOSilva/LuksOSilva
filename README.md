@@ -1,21 +1,27 @@
-## Bem-Vindo ao meu Gitbub 👋
+# Olá, eu sou o Lucas Oliveira 👋
 
-- 🌱 Atualmente estudando Java & SQL
-- 🔭 Atualmente trabalhando em um projeto pessoal de comparação de banco de dados SQLite
-- 📫 silva.los@outlook.com
-- 🔗 https://www.linkedin.com/in/lucas-de-oliveira-silva-a44a73197/
+💻 Atualmente trabalhando em um **projeto pessoal** de comparação de bancos de dados **SQLite** utilizando **Java & SQLite**.  
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
+📚 Aluno da **Algaworks**.
 
-<!--
-**LuksOSilva/LuksOSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 Atualmente trabalhando com:
+- SQLite  
+- Banco Oracle  
+- PL/SQL  
+- SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Atualmente estudando:
+- Java
+
+---
+
+### 📊 Linguagens mais usadas nos meus projetos:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Onde me encontrar:
+- **LinkedIn:** [seu_linkedin](https://www.linkedin.com/in/seu_linkedin)  
+- **Email:** seu_email@gmail.com
