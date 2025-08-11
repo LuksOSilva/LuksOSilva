@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Oliveira 👋
+# Bem-vindo ao meu Github 👋
 
 💻 Atualmente trabalhando em um **projeto pessoal** de comparação de bancos de dados **SQLite** utilizando **Java & SQLite**.  
 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
@@ -18,10 +18,10 @@
 ---
 
 ### 📊 Linguagens mais usadas nos meus projetos:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuksOSilva&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Onde me encontrar:
-- **LinkedIn:** [seu_linkedin](https://www.linkedin.com/in/seu_linkedin)  
-- **Email:** seu_email@gmail.com
+- **LinkedIn:** [seu_linkedin]([https://www.linkedin.com/in/seu_linkedin](https://www.linkedin.com/in/lucas-de-oliveira-silva-a44a73197/))  
+- **Email:** silva.los@outlook.com
