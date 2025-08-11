@@ -17,11 +17,10 @@
 
 ---
 
-### 📊 Linguagens mais usadas nos meus projetos:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuksOSilva&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Onde me encontrar:
-- **LinkedIn:** [seu_linkedin]([https://www.linkedin.com/in/seu_linkedin](https://www.linkedin.com/in/lucas-de-oliveira-silva-a44a73197/))  
+- **LinkedIn:** ![meu linkedin]([https://www.linkedin.com/in/seu_linkedin](https://www.linkedin.com/in/lucas-de-oliveira-silva-a44a73197/))  
 - **Email:** silva.los@outlook.com
