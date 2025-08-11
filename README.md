@@ -22,5 +22,5 @@
 ---
 
 ### 📫 Onde me encontrar:
-- **LinkedIn:** ![Lucas Silva](https://www.linkedin.com/in/lucas-de-oliveira-silva-a44a73197/)  
+- **LinkedIn:** [Lucas Silva](https://www.linkedin.com/in/lucas-de-oliveira-silva-a44a73197/)  
 - **Email:** silva.los@outlook.com
