@@ -19,6 +19,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuksOSilva&layout=compact&theme=tokyonight)
 
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/silva_los)](https://hackerrank.com/silva_los/)
+
 ---
 
 ### 📫 Onde me encontrar:
